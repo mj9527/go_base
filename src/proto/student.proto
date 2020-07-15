@@ -1,0 +1,6 @@
+syntax="proto2";
+
+message student{
+    optional string name = 1; //
+    optional string sex = 2; //
+}
